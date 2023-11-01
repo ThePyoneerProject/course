@@ -1,5 +1,8 @@
-# Who Is It For?
 ---
+order: 3
+title: Who Is It For?
+---
+
 My approach is for people who prefer the high risk / high reward path, and who are able to tolerate the stress that comes with it.
 
 It's for self-driven individuals who are ready to take an alternative, more entrepreneur-ish journey towards web develompent, and who are not afraid of getting out there and being proactive. 

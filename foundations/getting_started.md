@@ -1,4 +1,6 @@
-# Getting Started
+---
+title: Getting Started
+order: 1
 ---
 I don't want to waste your time, or mine, building lower quality versions of already existing content.
 
@@ -7,4 +9,4 @@ Thus, I invite you to go ahead and start The Odin Project's [**Foundations Cours
 Expect frustration, as it's fairly challenging.
 
 I'm diligently working to create an outstanding **Full Stack Python** option for you as a new choice once you reach the [Choosing Your Path Forward](https://www.theodinproject.com/lessons/foundations-choose-your-path-forward) lesson.
-![The Foundations Course End](https://drive.google.com/uc?id=12MnDXxdGt-kNMy0tKZzDHNt2xKLoiNKx)
+![The Foundations Course End](https://cdn.statically.io/gh/ThePyoneerProject/course/main/Foundations/getting_started/imgs/top_foundations_course_finish.webp)
