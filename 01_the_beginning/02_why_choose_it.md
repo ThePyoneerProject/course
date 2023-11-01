@@ -94,7 +94,7 @@ It's a 3-step process:
 
 This makes the learning process way more meaningful, and also makes it a lot less likely to give up halfway - because someone is actually expecting your project!
 
-Although it sounds simple on paper, I can't say the implementation was even remotely for me. 
+Although it sounds simple on paper, I can't say the implementation was even remotely easy for me. 
 
 This is not an approach that's feasible for just anyone. It really helps if you're naturally handy, and like figuring out stuff by yourself.
 

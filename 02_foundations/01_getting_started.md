@@ -6,5 +6,5 @@ Thus, I invite you to go ahead and start The Odin Project's [**Foundations Cours
 
 Expect frustration, as it's fairly challenging.
 
-Meanwhile, I'll diligently work on preparing the best version that I can to provide you with a new choice for [Choosing Your Path Forward](https://www.theodinproject.com/lessons/foundations-choose-your-path-forward) - **Full Stack Python**.
+I'm diligently working to create an outstanding **Full Stack Python** option for you as a new choice once you reach the [Choosing Your Path Forward](https://www.theodinproject.com/lessons/foundations-choose-your-path-forward) lesson.
 ![The Foundations Course End](https://drive.google.com/uc?id=12MnDXxdGt-kNMy0tKZzDHNt2xKLoiNKx)
