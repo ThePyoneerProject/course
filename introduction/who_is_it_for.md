@@ -1,6 +1,6 @@
 ---
 order: 3
-title: Who Is It For?
+title: Who is it for?
 ---
 
 My approach is for people who prefer the high risk / high reward path, and who are able to tolerate the stress that comes with it.
