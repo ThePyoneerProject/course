@@ -6,7 +6,7 @@ title: Why choose it?
 Since everybody and their mother is getting into web development, if you try to search for [which languages/frameworks are most in-demand](https://www.reddit.com/r/cscareerquestions/comments/16oa4iq/whats_the_most_indemand_backend_languageframework/), you'll often hear about Springboot, .NET, and Node.JS. 
 
 Why? Because big companies have many job opportunities for them.
-![Enterprise Languages](https://cdn.statically.io/gh/ThePyoneerProject/course/stable/introduction/why_choose_it/img/enterprise_languages.webp) 
+![Enterprise Languages](https://cdn.statically.io/gh/ThePyoneerProject/course/production/introduction/why_choose_it/img/enterprise_languages.webp) 
 
 **But there's a better path.**
 
@@ -18,7 +18,7 @@ And here's the thing: using modern, flexible tech stacks aligns perfectly with t
 
 So, presenting to you...
 ## The holy stack
-![The Holy Stack](https://cdn.statically.io/gh/ThePyoneerProject/course/stable/introduction/why_choose_it/img/the_holy_stack.webp)
+![The Holy Stack](https://cdn.statically.io/gh/ThePyoneerProject/course/production/introduction/why_choose_it/img/the_holy_stack.webp)
 
 - **Python (Django)**
 - **HTMX**
@@ -36,7 +36,7 @@ This course will teach you how to master **The Holy Stack**.
 _Disclaimer: While this tech stack boosts productivity, they're just tools. I'd switch for better options. What matters more is the skill behind the screen._
 
 ## The Learning Approach
-![The Different Approach](https://cdn.statically.io/gh/ThePyoneerProject/course/stable/introduction/why_choose_it/img/the_different_approach.webp)
+![The Different Approach](https://cdn.statically.io/gh/ThePyoneerProject/course/production/introduction/why_choose_it/img/the_different_approach.webp)
 
 > You have to struggle a bit at first, and opportunities will arise.
 
@@ -66,7 +66,7 @@ The company lacked several digital automations (they were phone calling each oth
 Using what little **WordPress** I knew at the time, I stitched together two "web applications", using a truckload of plugins.
 
 They were ugly as **heck**. (I was on a tight deadline 👉👈)
-![Old Ugly Internal App](https://cdn.statically.io/gh/ThePyoneerProject/course/stable/introduction/why_choose_it/img/old_app.webp)
+![Old Ugly Internal App](https://cdn.statically.io/gh/ThePyoneerProject/course/production/introduction/why_choose_it/img/old_app.webp)
 But I solved their problems! ✅
 
 Eager to move from WordPress to **Django**, I suggested redesigning & rebuilding the web apps for better scalability and long-term use. 
@@ -80,8 +80,8 @@ This led to a promotion, a pay raise, and - with some functional temporary solut
 This gave me the chance to start experimenting and getting better at Django every day while getting paid. It was awesome.
 
 I ended up building a pretty sleek, well-performing, maybe slightly overengineered, web application in Django.
-![New Internal App 1](https://cdn.statically.io/gh/ThePyoneerProject/course/stable/introduction/why_choose_it/img/new_app_1.webp)
-![New Internal App 2](https://cdn.statically.io/gh/ThePyoneerProject/course/stable/introduction/why_choose_it/img/new_app_2.webp)
+![New Internal App 1](https://cdn.statically.io/gh/ThePyoneerProject/course/production/introduction/why_choose_it/img/new_app_1.webp)
+![New Internal App 2](https://cdn.statically.io/gh/ThePyoneerProject/course/production/introduction/why_choose_it/img/new_app_2.webp)
 
 **So, what's the point?**
 
@@ -106,7 +106,7 @@ It's also a process that includes lots of mistakes, stress, frustration and disc
 I will help you master **The Ultimate Learning Approach**.
 
 ## So... Why choose this project?
-![A New Path](https://cdn.statically.io/gh/ThePyoneerProject/course/stable/introduction/why_choose_it/img/a_new_path.webp)
+![A New Path](https://cdn.statically.io/gh/ThePyoneerProject/course/production/introduction/why_choose_it/img/a_new_path.webp)
 
 I want to share a new path - one of passion.
 
